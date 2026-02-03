@@ -298,7 +298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a81bcacc415a1f743bfdf703afc52027, type: 3}
   m_Name: GradientSky
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   rotation:
     m_OverrideState: 1
     m_Value: 0
@@ -331,13 +331,13 @@ MonoBehaviour:
     m_Value: 0
   top:
     m_OverrideState: 1
-    m_Value: {r: 0.33328587, g: 1.1698112, b: 0.6551385, a: 1}
+    m_Value: {r: 0, g: 0, b: 1, a: 1}
   middle:
     m_OverrideState: 1
-    m_Value: {r: 0.30054384, g: 0.730461, b: 0.5149178, a: 1}
+    m_Value: {r: 0.3, g: 0.7, b: 1, a: 1}
   bottom:
     m_OverrideState: 1
-    m_Value: {r: 0.33245158, g: 1, b: 0.65837497, a: 1}
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
   gradientDiffusion:
     m_OverrideState: 1
     m_Value: 1
@@ -2013,7 +2013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1bfcd0f0fa7b8468f281d6bbbaf320, type: 3}
   m_Name: LensDistortion
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   intensity:
     m_OverrideState: 1
     m_Value: 0
@@ -2360,10 +2360,10 @@ MonoBehaviour:
     m_Value: 1
   upperHemisphereLuxValue:
     m_OverrideState: 1
-    m_Value: 0.4660715
+    m_Value: 0.15545966
   upperHemisphereLuxColor:
     m_OverrideState: 1
-    m_Value: {x: 0.18750614, y: 0.29181972, z: 0.5}
+    m_Value: {x: 0.08183663, y: 0.08882921, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
     m_Value: 20000
@@ -2391,7 +2391,7 @@ MonoBehaviour:
     m_Value: 1
   hdriSky:
     m_OverrideState: 1
-    m_Value: {fileID: 8900000, guid: 8253d41e6e8b11a4cbe77a4f8f82934d, type: 3}
+    m_Value: {fileID: 8900000, guid: fa41734a337674542975482c8fe96ea1, type: 3}
   distortionMode:
     m_OverrideState: 1
     m_Value: 0
