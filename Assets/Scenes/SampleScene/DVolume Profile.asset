@@ -21,10 +21,10 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.187
   scatter:
     m_OverrideState: 1
-    m_Value: 0.7
+    m_Value: 0.698
   tint:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -2260,7 +2260,7 @@ MonoBehaviour:
     m_Value: 1
   enabled:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   colorMode:
     m_OverrideState: 1
     m_Value: 1
@@ -2284,10 +2284,10 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -100
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 50
+    m_Value: 350
   meanFreePath:
     m_OverrideState: 1
     m_Value: 400
